@@ -40,7 +40,7 @@ This command will build the Rust code and install the Python package in "editabl
 ## First, activate your Python virtual environment:
 
 ```bash
-source path/to/your/python/env/bin/activate
+source .env/bin/activate
 ```
 Then, navigate to the project directory and run the following command:
 
